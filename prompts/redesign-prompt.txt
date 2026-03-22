@@ -1,0 +1,23 @@
+Redesign this website using a bold, high-energy color system inspired by playful, mascot-driven web brands. The interface should feel alive, memorable, colorful, and emotionally immediate without becoming messy.
+
+Use:
+- large flat background color fields
+- one dominant background color per section
+- electric indigo for structure and primary CTAs
+- hot pink for emphasis and playful accents
+- soft white for text and pill buttons
+- sky blue, lavender, and vivid blue-violet as rotating section backgrounds
+
+Rules:
+- keep the palette tight and intentional
+- use high contrast
+- avoid gray-heavy or corporate-looking sections
+- make buttons chunky, rounded, and obvious
+- allow one emphasized word or phrase in headlines using the accent color
+- ensure illustrations, icons, or graphics echo the same palette as the interface
+- make each section feel like a scene change with its own mood
+- preserve readability and hierarchy
+- do not overuse gradients, glassmorphism, or dark muddy tones
+
+Target feeling:
+fun, alive, premium-playful, internet-native, high-energy, visually sticky

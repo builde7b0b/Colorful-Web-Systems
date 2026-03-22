@@ -1,0 +1,26 @@
+{
+  "name": "Colorful Web Style System",
+  "core": {
+    "sky_base": "#77C7F5",
+    "electric_indigo": "#4D46F4",
+    "hot_pink": "#FF4F9A",
+    "soft_white": "#F8F7F4"
+  },
+  "secondary": {
+    "lavender_pink": "#F2A8E8",
+    "deep_blue_violet": "#4B45D8",
+    "candy_purple": "#7B61FF"
+  },
+  "illustration_only": {
+    "lemon_yellow": "#F6DD4E",
+    "mint_green": "#6BE38C",
+    "bright_cyan": "#56C8FF"
+  },
+  "usage_rules": {
+    "max_dominant_colors_per_section": 4,
+    "recommended_background_strategy": "one dominant background color per section",
+    "primary_cta": "electric_indigo",
+    "secondary_cta": "soft_white",
+    "accent_highlight": "hot_pink"
+  }
+}
