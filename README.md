@@ -171,23 +171,18 @@ For those, tone it down and borrow only:
 - tighter palette discipline
 
 ---
+## Reference Screenshots
 
-## Add your own screenshots
+### Hero Section
+![Hero section reference](reference-screenshots/Screenshot-1.png)
 
-Put all screenshots in:
+### Community Section
+![Community section reference](reference-screenshots/Screenshot-2.png)
 
-```text
-reference-screenshots/
-```
+### Social Follow Section
+![Social follow section reference](reference-screenshots/Screenshot-3.png)
 
-Suggested naming:
 
-```text
-homepage-hero.png
-community-section.png
-social-proof-section.png
-footer-cta.png
-```
 
 ---
 
